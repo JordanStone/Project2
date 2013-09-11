@@ -4,7 +4,7 @@ CONTENTS:
 I submitted code for problems 1,4,5,6,7,8,9. All program code is
 written in python and is stored in the .py format.
 
-	Folder hw2Jls564:
+	Folder Project2:
 		README.txt - text document detailing files submitted in this project and
 		completeness of every section.
 
